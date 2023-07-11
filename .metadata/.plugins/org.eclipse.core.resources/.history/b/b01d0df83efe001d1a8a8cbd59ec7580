@@ -1,0 +1,18 @@
+package es.makigas.hibernate.modelo.tests;
+
+import javax.persistence.*;
+
+public class testEmpleados {
+	
+	private static EntityManager manager;
+	
+	private static EntityManagerFactory emf;
+	
+	public static void main(String[] args) {
+		
+		emf = Persistence.createEntityManagerFactory("Persistencia");
+		manager = emf.createEntityManager();
+
+	}
+
+}

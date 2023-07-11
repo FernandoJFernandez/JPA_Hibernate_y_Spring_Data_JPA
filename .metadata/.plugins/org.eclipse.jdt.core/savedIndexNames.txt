@@ -1,0 +1,17 @@
+INDEX VERSION 1.132+C:\Users\vboxuser\Desktop\JPA_Hibernate_y_Spring_Data_JPA\.metadata\.plugins\org.eclipse.jdt.core
+1531623642.index
+3224290606.index
+1780828013.index
+3487195836.index
+3592055659.index
+720614967.index
+87497846.index
+5597841.index
+1484262176.index
+1789096997.index
+1799435732.index
+3009270306.index
+3136196529.index
+1531288198.index
+3959137331.index
+1865797976.index

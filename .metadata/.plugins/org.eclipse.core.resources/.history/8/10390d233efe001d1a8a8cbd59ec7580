@@ -1,0 +1,10 @@
+package es.makigas.hibernate.modelo.tests;
+
+public class testEmpleados {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
